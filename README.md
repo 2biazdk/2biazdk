@@ -4,7 +4,7 @@ I'm a front-end developer by background and by heart, with a soft spot for thoug
 
 Most of my work sits somewhere between code, usability, and accessibility: building things for the web, improving how people experience digital products, and helping make accessibility more practical.
 
-I'm a Certified Professional in Web Accessibility (CPWA) through the [International Association of Accessibility Professionals](https://accessibilityassociation.org/).
+I'm a Certified Professional in Web Accessibility (CPWA) through the [International Association of Accessibility Professionals (IAAP)](https://accessibilityassociation.org/).
 
 ## Around the web
 
