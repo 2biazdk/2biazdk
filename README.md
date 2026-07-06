@@ -1,6 +1,6 @@
 # Tobias Nyhuus Jensen
 
-I'm a front-end developer by background and by heart, with a soft spot for thoughtful UX, accessible interfaces, 8-bit games, and pixel art.
+I'm a front-end developer by background and by heart, with a soft spot for thoughtful UX, accessible interfaces, and retro style 8-bit games.
 
 Most of my work sits somewhere between code, usability, and accessibility: building things for the web, improving how people experience digital products, and helping make accessibility more practical.
 
