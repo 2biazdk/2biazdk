@@ -1,0 +1,14 @@
+# Tobias Nyhuus Jensen
+
+I'm a front-end developer by background and by heart, with a soft spot for thoughtful UX, accessible interfaces, 8-bit games, and pixel art.
+
+Most of my work sits somewhere between code, usability, and accessibility: building things for the web, improving how people experience digital products, and helping make accessibility more practical.
+
+## Around the web
+
+- [Forlæns](https://forlaens.com/) - my home for writing, projects, and web things
+- [Forward Plugins](https://forlaens.com/forward-udvidelser/) - releases, plugins, tools, and small web apps
+- [Nordic Accessibility Community Group at W3C](https://www.w3.org/community/nordic-accessibility/)
+- [Videnscenter om Handicap](https://videnomhandicap.dk/) - board member
+- [AccessibleEU](https://accessible-eu-centre.ec.europa.eu/accessibleeu-network-experts_en) - National Expert representing Denmark
+- [LinkedIn](https://www.linkedin.com/in/2biaz/)
