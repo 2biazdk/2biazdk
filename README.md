@@ -9,7 +9,7 @@ I'm a Certified Professional in Web Accessibility (CPWA) through the [Internatio
 ## Around the web
 
 - [Forlæns](https://forlaens.com/) - my home for writing, projects, accessibility events I'm hosting, and web things
-- [Forward Plugins](https://forlaens.com/forward-udvidelser/) – releases, plugins, tools, and small web apps
+- [Forward Plugins](https://forlaens.com/forward-udvidelser/) – plugins, tools, and small web apps I have created
 - [Nordic Accessibility Community Group at W3C](https://www.w3.org/community/nordic-accessibility/) – co-chair
 - [Siteimprove.ai](https://siteimprove.com) – Principal Accessibility Program Lead
 - [Videnscenter om Handicap](https://videnomhandicap.dk/) - board member
