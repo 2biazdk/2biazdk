@@ -7,8 +7,9 @@ Most of my work sits somewhere between code, usability, and accessibility: build
 ## Around the web
 
 - [Forlæns](https://forlaens.com/) - my home for writing, projects, and web things
-- [Forward Plugins](https://forlaens.com/forward-udvidelser/) - releases, plugins, tools, and small web apps
-- [Nordic Accessibility Community Group at W3C](https://www.w3.org/community/nordic-accessibility/)
+- [Forward Plugins](https://forlaens.com/forward-udvidelser/) – releases, plugins, tools, and small web apps
+- [Nordic Accessibility Community Group at W3C](https://www.w3.org/community/nordic-accessibility/) – co-chair
+- [Siteimprove.ai](https://siteimprove.com) – Principal Accessibility Program Lead
 - [Videnscenter om Handicap](https://videnomhandicap.dk/) - board member
 - [AccessibleEU](https://accessible-eu-centre.ec.europa.eu/accessibleeu-network-experts_en) - National Expert representing Denmark
 - [LinkedIn](https://www.linkedin.com/in/2biaz/)
