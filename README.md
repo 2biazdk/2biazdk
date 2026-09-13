@@ -8,10 +8,10 @@ I'm a Certified Professional in Web Accessibility (CPWA) through the [Internatio
 
 ## Around the web
 
-- [Forlæns](https://forlaens.com/) - my home for web development, accessibility, writing, and events I'm hosting
+- [Forlæns](https://forlaens.com/) – my home for web development, accessibility, writing, and events I'm hosting
 - [Forward Plugins](https://forlaens.com/forward-udvidelser/) – plugins, tools, and small web apps I have created
 - [Nordic Accessibility Community Group at W3C](https://www.w3.org/community/nordic-accessibility/) – co-chair
 - [Siteimprove.ai](https://siteimprove.com) – Principal Accessibility Program Lead
-- [Videnscenter om Handicap](https://videnomhandicap.dk/) - board member
-- [AccessibleEU](https://accessible-eu-centre.ec.europa.eu/accessibleeu-network-experts_en) - National Expert representing Denmark
-- [LinkedIn](https://www.linkedin.com/in/2biaz/) - my resume
+- [Videnscenter om Handicap](https://videnomhandicap.dk/) – board member
+- [AccessibleEU](https://accessible-eu-centre.ec.europa.eu/accessibleeu-network-experts_en) – National Expert representing Denmark
+- [LinkedIn](https://www.linkedin.com/in/2biaz/) – my resume
